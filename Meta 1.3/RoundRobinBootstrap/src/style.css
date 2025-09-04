@@ -1,0 +1,19 @@
+.header {
+  background-color: #0f172a;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  text-align: center;
+  color: #369167;
+}
+
+.log {
+  height: 200px;
+  overflow-y: auto;
+  background-color: #0b1020;
+  color: #e5e7eb;
+  padding: 1rem;
+  border-radius: .5rem;
+  font-family: monospace;
+}
