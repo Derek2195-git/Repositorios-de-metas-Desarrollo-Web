@@ -1,0 +1,18 @@
+.header {
+  background-color: #0f172a;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  text-align: center;
+  color: #DB8E12;
+}
+#resultado {
+  max-width: 600px;
+  display: none;
+}
+
+#catImg {
+  max-height: 400px;
+  object-fit: cover;
+}
