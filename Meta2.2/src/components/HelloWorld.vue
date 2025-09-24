@@ -1,4 +1,5 @@
 <template>
+   <!-- NOTA: SI LA PAGINA APARECE EN BLANCO, SE DEBE RECARGAR LA PAGINA -->
   <v-container class="fill-height" max-width="900">
     <div>
       <v-img

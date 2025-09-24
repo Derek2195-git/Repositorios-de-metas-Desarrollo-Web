@@ -1,4 +1,5 @@
 <template>
+   <!-- NOTA: SI LA PAGINA APARECE EN BLANCO, SE DEBE RECARGAR LA PAGINA -->
   <v-row justify="center" class="my-6">
     <v-col cols="12" sm="6" md="4" lg="3"> 
       <v-card class="tarjeta-estilo" outlined>

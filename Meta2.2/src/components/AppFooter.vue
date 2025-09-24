@@ -1,4 +1,5 @@
 <template>
+   <!-- NOTA: SI LA PAGINA APARECE EN BLANCO, SE DEBE RECARGAR LA PAGINA -->
   <div class="text-center pa-4">
     <v-btn size="x-large"
     href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"

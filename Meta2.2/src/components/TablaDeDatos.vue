@@ -1,4 +1,5 @@
 <template>
+   <!-- NOTA: SI LA PAGINA APARECE EN BLANCO, SE DEBE RECARGAR LA PAGINA -->
 <br></br>
   <v-table class="tabla">
     <thead>
